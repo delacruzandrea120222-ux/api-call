@@ -9,7 +9,8 @@
 
 ---
 
-## Andrea Dela Cruz POSTMAN API_CALL DEMONSTRATION In this project I created and tested a API calls using a Postman to understand how the APIs work and how different the HTTP methods function is. My project demonstrates the use of GET, POST, PUT, PATCH and DELETE requests together with their corresponding responses.
+## 
+Andrea Dela Cruz POSTMAN API_CALL DEMONSTRATION In this project I created and tested a API calls using a Postman to understand how the APIs work and how different the HTTP methods function is. My project demonstrates the use of GET, POST, PUT, PATCH and DELETE requests together with their corresponding responses.
 
 Google Drive Folder:
 https://drive.google.com/drive/folders/17UUtv_w27OQZkmdmBPyd2PpNx5-8CEZo
