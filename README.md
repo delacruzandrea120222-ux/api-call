@@ -1,10 +1,6 @@
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+
 # ANDREA DELA CRUZ POSTMAN API_CALL DEMONSTRATION
-
-<p align="center">
-    <img src="https://laravel.com/img/logotype.min.svg" alt="Laravel Logo">
-</p>
-
----
 
 ## About the Project
 
@@ -18,21 +14,21 @@ https://drive.google.com/drive/folders/17UUtv_w27OQZkmdmBPyd2PpNx5-8CEZo
 
 ---
 
-# About Laravel
+## About Laravel
 
-Laravel is a web application framework with expressive and elegant syntax. It provides tools and features that make web development faster, easier, and more organized.
+Laravel is a web application framework with expressive, elegant syntax. Laravel helps developers build modern and efficient web applications using powerful tools and features.
 
-## Features of Laravel
+### Features of Laravel
 
-* Simple and fast routing system
-* Powerful dependency injection
+* Simple and fast routing engine
+* Powerful dependency injection container
 * Database migration support
-* ORM for database management
-* Session and cache handling
+* Expressive and intuitive ORM
+* Session and cache storage
 * Background job processing
 * Real-time event broadcasting
 
-Laravel helps developers build secure, scalable, and modern web applications efficiently.
+Laravel is accessible, powerful, and provides tools required for large and robust applications.
 
 ---
 
@@ -40,23 +36,23 @@ Laravel helps developers build secure, scalable, and modern web applications eff
 
 ## GET Request
 
-Retrieves all records from the database.
+Retrieves all quiz records from the database.
 
 ## POST Request
 
-Creates a new record in the database.
+Creates a new quiz record in the database.
 
 ## PUT Request
 
-Updates an existing record.
+Updates an existing quiz record.
 
 ## PATCH Request
 
-Partially updates a record.
+Partially updates an existing record.
 
 ## DELETE Request
 
-Deletes a record from the database.
+Deletes a quiz record from the database.
 
 ---
 
@@ -72,23 +68,23 @@ Deletes a record from the database.
 
 # Setup Instructions
 
-1. Install Composer dependencies
+1. Install dependencies
 
-```bash id="o8tz7v"
+```bash
 composer install
 ```
 
-2. Configure the database connection in the `.env` file
+2. Configure the database in the `.env` file
 
 3. Run migrations
 
-```bash id="7q0f3h"
+```bash
 php artisan migrate
 ```
 
 4. Start the Laravel development server
 
-```bash id="b0x9yk"
+```bash
 php artisan serve
 ```
 
